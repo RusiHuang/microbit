@@ -1,6 +1,5 @@
 from microbit import *
 import random
-num_shakes = 0
 numbers = [Image('00000:'
                  '00900:'
                  '00900:'
